@@ -36,3 +36,4 @@ build/
 
 ### configuraciones locales
 /src/main/resources/application.properties
+/.env
